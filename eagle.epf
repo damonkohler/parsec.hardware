@@ -1,5 +1,5 @@
 [Eagle]
-Version="05 07 00"
+Version="05 11 00"
 Platform="Linux"
 Serial="62191E841E-LSR-WLM-1EL"
 Globals="Globals"
@@ -18,7 +18,6 @@ UsedLibrary="/home/conradt/.eagle/lbr/74xx-little-de.lbr"
 UsedLibrary="/home/conradt/.eagle/lbr/74xx-little-us.lbr"
 UsedLibrary="/home/conradt/.eagle/lbr/74xx-us.lbr"
 UsedLibrary="/home/conradt/.eagle/lbr/751xx.lbr"
-UsedLibrary="/home/conradt/.eagle/lbr/DOGS102.lbr"
 UsedLibrary="/home/conradt/.eagle/lbr/advanced-test-technologies.lbr"
 UsedLibrary="/home/conradt/.eagle/lbr/agilent-technologies.lbr"
 UsedLibrary="/home/conradt/.eagle/lbr/allegro.lbr"
@@ -133,7 +132,6 @@ UsedLibrary="/home/conradt/.eagle/lbr/discrete.lbr"
 UsedLibrary="/home/conradt/.eagle/lbr/display-hp.lbr"
 UsedLibrary="/home/conradt/.eagle/lbr/display-kingbright.lbr"
 UsedLibrary="/home/conradt/.eagle/lbr/display-lcd.lbr"
-UsedLibrary="/home/conradt/.eagle/lbr/display_ea_dog-m.lbr"
 UsedLibrary="/home/conradt/.eagle/lbr/docu-dummy.lbr"
 UsedLibrary="/home/conradt/.eagle/lbr/ecl.lbr"
 UsedLibrary="/home/conradt/.eagle/lbr/etx-board.lbr"
@@ -314,21 +312,11 @@ UsedLibrary="/home/conradt/.eagle/lbr/zetex.lbr"
 UsedLibrary="/home/conradt/.eagle/lbr/zilog.lbr"
 
 [Win_1]
-Type="Text Editor"
-Loc="483 1218 1122 1854"
-State=2
-Number=3
-File="bom.txt"
-CursorPos="0 0"
-Font="Courier,11,-1,0,50,0,0,0,0,0"
-
-[Win_2]
 Type="Control Panel"
-Loc="0 1380 799 1847"
+Loc="508 58 1266 596"
 State=2
 Number=0
 
 [Desktop]
-Screen="2400 1920"
+Screen="3200 1200"
 Window="Win_1"
-Window="Win_2"
